@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.redhat</groupId>
 	<artifactId>k8s-hello-world-spring-db</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>k8s-hello-world-spring-db</name>
 	<description>Demo project for Spring Boot on k8s connecting to Database</description>
 	<url/>
